@@ -1,24 +1,19 @@
-<!-- ═══════════════ HERO SECTION ═══════════════ -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Anish+Tiwari;MERN+Stack+Developer+%F0%9F%92%BB;Building+Web+Experiences+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Animated introduction" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0F766E,100:06B6D4&text=ANISH%20TIWARI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20MERN%20Stack%20Developer&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Anish Tiwari developer banner"/>
 
-<h3>🚀 Aspiring Software Engineer | MERN Stack Developer</h3>
+<a href="https://github.com/Anish7307">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Anish+Tiwari+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%92%BB;Building+Ideas+Into+Web+Applications+%F0%9F%9A%80;Learn.+Build.+Debug.+Repeat.+%E2%9C%A8" alt="Animated typing introduction"/>
+</a>
 
-<p>
-  <a href="https://github.com/Anish7307">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anish-tiwari-2008032b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:anishtiwari730@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Anish7307&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/Anish7307?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+</a>
+<a href="https://www.linkedin.com/in/anish-tiwari-2008032b6/">
+<img src="https://img.shields.io/badge/Connect-on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
@@ -26,123 +21,128 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const anish = {
-  name: "Anish Tiwari",
-  role: "MERN Stack Developer",
-  education: "B.Tech CSE",
-  languages: ["JavaScript", "Java", "SQL"],
-  frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js", "REST APIs"],
-  databases: ["MongoDB", "MySQL"],
-  tools: ["Git", "GitHub", "Postman"],
-  currentlyFocusedOn: [
-    "Building full-stack applications",
-    "Writing clean, maintainable code",
-    "Learning industry best practices"
-  ],
-  mindset: "Learn • Build • Improve • Repeat"
-};
-```
+I'm an aspiring Software Engineer and MERN Stack Developer who enjoys turning ideas into practical web applications. I like exploring how frontend interfaces, backend APIs, and databases work together to create useful products.
 
-- 💻 I enjoy building interactive and practical web applications.
-- 🌱 Currently strengthening my full-stack development and software engineering skills.
-- 🔧 Interested in REST APIs, authentication, database design, and real-time applications.
-- 🤝 Open to internships, entry-level opportunities, and collaborative projects.
-- ⚡ My philosophy: **Build projects that solve real problems.**
+- 💻 Interested in full-stack web development and software engineering.
+- ⚛️ Building projects with React.js and the MERN stack.
+- 🔌 Learning API development, authentication, and database integration.
+- 🧠 Improving problem-solving and writing cleaner, maintainable code.
+- 🌱 Exploring Docker, AWS, and modern development workflows.
+- 🤝 Open to software engineering internships, entry-level roles, and collaborative projects.
+
+> **My approach:** Learn the fundamentals, build real projects, understand the code, and improve with every iteration.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ My Tech Stack
 
 <div align="center">
 
-### Frontend
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React and Tailwind CSS"/>
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB and MySQL"/>
 
-### Languages & Developer Tools
+### Programming & Tools
 
-<img src="https://skillicons.dev/icons?i=java,git,github,postman,vscode" alt="Programming languages and developer tools"/>
+<img src="https://skillicons.dev/icons?i=java,git,github,postman,vscode&theme=dark" alt="Java, Git, GitHub, Postman and VS Code"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects I'm Building
 
-### 1. 🩺 AI Medical Chatbot
+### 🩺 AI Medical Chatbot
 
-An AI-powered medical assistant project focused on making health-related information easier to explore.
+A conversational medical-information project designed to make health-related information easier to explore.
 
-- 💬 Designed for conversational medical queries.
-- 🌐 Built with a web interface and backend integration.
-- 🎯 Focused on accessible, user-friendly interaction.
+- 💬 Chat-based interaction for medical queries.
+- 🌐 Web interface with backend integration.
+- 🛠️ Experience building and troubleshooting an AI-oriented application.
 
-**Tech:** JavaScript · HTML · CSS · Node.js · Express.js
+**Technologies:** JavaScript, HTML, CSS, Node.js, Express.js
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Anish7307/medical_chatbot)
+[![Explore Medical Chatbot](https://img.shields.io/badge/Explore_Project-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Anish7307/medical_chatbot)
 
-### 2. ⚛️ React Single Page Application
+### 🚗 Smart Vehicle Pooling System
 
-A React learning project exploring single-page application architecture and client-side navigation.
+An in-development ride-sharing application concept connecting drivers and passengers travelling towards similar destinations.
 
-- 🔀 Implemented navigation with React Router DOM.
-- 🧩 Practiced component-based development.
-- ⚡ Explored page transitions without full browser reloads.
-
-**Tech:** React.js · JavaScript · React Router DOM
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Anish7307/React)
-
-### 3. 🚗 Smart Vehicle Pooling System
-
-A full-stack ride-sharing concept designed to connect drivers and passengers travelling towards similar destinations.
-
-- 🚘 Separate driver and passenger workflows.
+- 🚘 Driver and passenger workflows.
 - 📍 Ride creation and ride discovery.
-- 🔄 Real-time updates using Socket.IO.
+- 🔄 Backend communication and real-time updates with Socket.IO.
 
-**Tech:** React.js · Node.js · Express.js · MongoDB · Socket.IO
+**Technologies:** MERN stack, Socket.IO
 
 *Status: Under development.*
 
+### ⚛️ React Single Page Application
+
+A hands-on project exploring React fundamentals and client-side navigation.
+
+- 🧩 Component-based development.
+- 🔀 Navigation with React Router DOM.
+- ⚡ Understanding single-page application behaviour.
+
+**Technologies:** React.js, JavaScript, React Router DOM
+
+[![Explore React Project](https://img.shields.io/badge/Explore_Project-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Anish7307/React)
+
+### 🌐 Personal Portfolio Website
+
+A portfolio project showcasing my developer profile, projects, and skills, with an administrative dashboard for managing portfolio content.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB
+
+[![Visit GitHub Profile](https://img.shields.io/badge/Explore-My_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Anish7307)
+
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anish7307&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/Anish7307">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anish7307&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub contribution statistics"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish7307&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<a href="https://github.com/Anish7307">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish7307&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</a>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Anish7307&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Anish7307&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🏆 Learning & Achievements
+## 🏅 Learning & Achievements
 
-- 📜 IBM PBEL — Project-Based Experiential Learning.
-- 🏁 Hack India — Participant.
-- 📚 Continuously learning full-stack development and software engineering fundamentals.
+- 📚 IBM PBEL — Project-Based Experiential Learning.
+- 🏁 Participated in Hack India.
+- 🛠️ Learning through independent projects and hands-on development.
+- 🌱 Continuously improving full-stack development and software engineering fundamentals.
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 What I'm Working Towards
 
-- [ ] Build and deploy production-ready MERN applications.
-- [ ] Improve backend architecture, API security, and testing.
-- [ ] Strengthen problem-solving and coding fundamentals.
-- [ ] Learn Docker and AWS deployment fundamentals.
-- [ ] Contribute to open-source projects.
-- [ ] Secure a Software Engineer or MERN Stack Developer opportunity.
+<img align="right" width="120" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer coding"/>
+
+- Building reliable, full-stack applications.
+- Improving backend architecture and API security.
+- Writing maintainable code and learning software testing.
+- Learning Docker and AWS fundamentals.
+- Exploring open-source contributions.
+- Preparing for Software Engineer and MERN Stack Developer opportunities.
+
+<br clear="right"/>
 
 ---
 
@@ -150,24 +150,21 @@ A full-stack ride-sharing concept designed to connect drivers and passengers tra
 
 <div align="center">
 
-💬 Have an interesting project or opportunity? Let's connect and build something useful!
+I'm always interested in learning, collaborating, and building useful software.
 
 <a href="https://github.com/Anish7307">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/anish-tiwari-2008032b6/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:anishtiwari730@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4169E1,100:8A2BE2&height=120&section=footer" width="100%" alt="Animated gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0F766E,100:020617&height=120&section=footer" width="100%" alt="Animated footer banner"/>
 
-**⭐ If you find my projects interesting, consider giving them a star!**
+**Thanks for visiting my profile!** ⭐
 
-*“Great software is built one thoughtful improvement at a time.”*
+*Building today. Learning every day. Improving with every project.*
 
 </div>
